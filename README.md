@@ -6,6 +6,6 @@
   <title>My Website</title>
 </head>
 <body>
-  <h1>Xin chào GitHub</h1>
+  <h1>HELLO</h1>
 </body>
 </html>
